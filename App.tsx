@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Com a chegada do outono, nas cidades frias da costa, o pôr-do-sol torna-se mais belo.</Text>
+      <Text>Com a chegada do inverno, nas cidades frias da costa, o pôr-do-sol torna-se mais belo.</Text>
       <StatusBar style="auto" />
     </View>
   );
